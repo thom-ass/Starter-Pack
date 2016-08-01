@@ -1,0 +1,17 @@
+{
+  "name": "starter-pack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Rico <thomas@thirteenth.id>",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^4.2.0"
+  }
+}
